@@ -1,7 +1,7 @@
 <HTML>
 <head>
     <link href="style.css" rel="stylesheet">
-    <title>Your Name resume</title>
+     Email: NaseemMohsin710@gmail.com 
  </head>
  <body>
 		<header id="header">
