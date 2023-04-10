@@ -7,7 +7,7 @@
 		<header id="header">
              <!-- resume header with your name and title -->
 			    <h1>Naseem Mohsin</h1>
-			<h>  Email: NaseemMohsin710@gmail.com  <h>
+			<h>  Email: Naseemmohsin710@gmail.com  <h>
 			    <hr>
 			    Jack of All Trades
 			    <hr>
