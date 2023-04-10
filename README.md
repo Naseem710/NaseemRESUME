@@ -7,7 +7,6 @@
 		<header id="header">
              <!-- resume header with your name and title -->
 			    <h1>Naseem Mohsin</h1>
-			<h>  Email: Naseemmohsin710@gmail.com  <h>
 			    <hr>
 			    Jack of All Trades
 			    <hr>
@@ -19,9 +18,10 @@
                             <!-- contact info including social media -->
 					<section>
                     <p> Phone Number: 647 390 4053 
-					<p> Instagram: Naseem_710
-				    <p> Facebook: Naseem Mohsin
-					</p> LinkedIn: Naseem Mohsin
+			    <p> Email: Naseemmohsin710@gmail.com
+			<p> Instagram: Naseem_710
+		    <p> Facebook: Naseem Mohsin
+			</p> LinkedIn: Naseem Mohsin
 					</section>
                     <h2>SKILLS</h2>
 					    <!-- your skills -->
