@@ -1,5 +1,3 @@
-<!-- Email: NaseemMohsin710@gmail.com --1>
-
 <HTML>
 <head>
     <link href="style.css" rel="stylesheet">
