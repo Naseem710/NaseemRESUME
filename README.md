@@ -1,5 +1,4 @@
-#NaseemRESUME
-Email: NaseemMohsin710@gmail.com 
+<!-- Email: NaseemMohsin710@gmail.com --1>
 
 <HTML>
 <head>
@@ -10,6 +9,7 @@ Email: NaseemMohsin710@gmail.com
 		<header id="header">
              <!-- resume header with your name and title -->
 			    <h1>Naseem Mohsin</h1>
+			<h>  Email: NaseemMohsin710@gmail.com  </h>
 			    <hr>
 			    Jack of All Trades
 			    <hr>
