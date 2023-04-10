@@ -20,7 +20,7 @@ Naseemmohsin710@gmail.com
                             <!-- contact info including social media -->
 					<section>
                     <p> Phone Number: 647 390 4053 
-<p> <a href="Naseemmohsin710@gmail.com">Email me</a>  
+<p> <a href="Naseemmohsin710@gmail.com">Naseemmohsin710@gmail.com</a>  
 			<p> Instagram: Naseem_710
 		    <p> Facebook: Naseem Mohsin
 			</p> LinkedIn: Naseem Mohsin
