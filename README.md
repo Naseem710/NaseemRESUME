@@ -1,5 +1,3 @@
-Naseemmohsin710@gmail.com
-
 <HTML>
 <head>
     <link href="style.css" rel="stylesheet">
@@ -20,7 +18,7 @@ Naseemmohsin710@gmail.com
                             <!-- contact info including social media -->
 					<section>
                     <p> Phone Number: 647 390 4053 
-<p> <a href="Naseemmohsin710@gmail.com">Naseemmohsin710@gmail.com</a>  
+<p> Email: <a href="Naseemmohsin710@gmail.com">Naseemmohsin710@gmail.com</a>  
 			<p> Instagram: Naseem_710
 		    <p> Facebook: Naseem Mohsin
 			</p> LinkedIn: Naseem Mohsin
