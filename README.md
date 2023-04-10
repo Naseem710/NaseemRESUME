@@ -18,7 +18,7 @@
                             <!-- contact info including social media -->
 					<section>
                     <p> Phone Number: 647 390 4053 
-			    <p> Email: Naseemmohsin710@gmail.com
+			    <p> Email: mailto:Naseemmohsin710@gmail.com
 			<p> Instagram: Naseem_710
 		    <p> Facebook: Naseem Mohsin
 			</p> LinkedIn: Naseem Mohsin
